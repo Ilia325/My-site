@@ -2,3 +2,26 @@ body {
     font-family: sans-serif;
 }
 
+header {
+background-color: green;
+color: white;
+}
+
+link-header: {
+color: blue;
+text-decoration: none;
+}
+
+main {
+background-color: blue;
+color: white;
+}
+
+a {
+color: green;
+}
+
+foorer {
+    background-color: yellow;
+}
+
